@@ -1,7 +1,7 @@
 # sqalchemy-challenge
 
 ### Overview
-I need a vacation. It's not in the cards right now, but this activity helped me dream. The goal of the exercise was to perform analysis on the weather patterns in Hawaii, using two separate tables in an SQLite database. 
+I need a vacation. It's not in the cards right now, but this activity helped me dream. The goal of the exercise was to perform simple historical analysis on weather patterns in Hawaii, using two separate tables in an SQLite database. 
 
 The assignment is broken up into two parts: 1) Data Analysis that pulls data from the SQLite DB, into a Jupyter notebook, and 2) A Flask application that created an API that linked to the data. 
 
